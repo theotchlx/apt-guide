@@ -4,3 +4,7 @@ language = "en"
 multilingual = false
 src = "src"
 title = "A concise guide to APT"
+
+[output.html]
+git-repository-url = "https://github.com/theotchlx/apt-guide"
+
