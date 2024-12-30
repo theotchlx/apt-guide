@@ -4,6 +4,7 @@ Maybe you're using Linux because it's free, or because it's more secure, or beca
 Whatever the reason, you're here because you want to know how to install software on your Linux system, and you keep seeing terminal commands that you don't understand.
 
 This guide answers some common use cases for Linux users:
+
 - How do I install software easily?
 - How do I update my software to the latest version?
 - How do I remove software that I no longer need?
